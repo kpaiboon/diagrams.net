@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T04:07:47.966Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.63" etag="tkRBuDJnv8qaQMuAIRPC" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T04:09:45.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.63" etag="pvMAdZVLR3bVuAv1zGW2" version="15.5.9" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
     <mxGraphModel dx="1382" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -47,10 +47,10 @@
           <mxGeometry x="600" y="210" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CVfzyO-HcXrzxJr8nOtk-16" value="Dash Plotly" style="text;fontSize=16;fontStyle=1;verticalAlign=middle;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="810" y="220" width="150" height="20" as="geometry" />
+          <mxGeometry x="800" y="220" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wNUg9_tzJ5TJ3EyBKktx-1" value="Real-Time &amp;&#xa;Time series " style="text;fontSize=16;fontStyle=1;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="670" y="315" width="130" height="30" as="geometry" />
+        <mxCell id="wNUg9_tzJ5TJ3EyBKktx-1" value="Geo Location&#xa;Time series " style="text;fontSize=16;fontStyle=1;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="820" y="333" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

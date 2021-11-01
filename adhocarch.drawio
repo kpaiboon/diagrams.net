@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T04:09:45.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.63" etag="pvMAdZVLR3bVuAv1zGW2" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T04:30:13.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.63" etag="dCfCXBriv-OqNeF7yYsn" version="15.6.3" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
     <mxGraphModel dx="1382" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -31,8 +31,8 @@
         <mxCell id="CVfzyO-HcXrzxJr8nOtk-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/computer-and-web-2/500/Development-128.png" parent="1" vertex="1">
           <mxGeometry x="811" y="229" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="CVfzyO-HcXrzxJr8nOtk-8" value="Text Files" style="text;fontSize=16;fontStyle=1;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="630" y="440" width="150" height="30" as="geometry" />
+        <mxCell id="CVfzyO-HcXrzxJr8nOtk-8" value="Text Files&#xa;( Trace logs )" style="text;fontSize=16;fontStyle=1;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="630" y="425" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CVfzyO-HcXrzxJr8nOtk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=1;strokeColor=#82B366;strokeWidth=4;" parent="1" source="CVfzyO-HcXrzxJr8nOtk-9" target="CVfzyO-HcXrzxJr8nOtk-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -40,16 +40,16 @@
         <mxCell id="CVfzyO-HcXrzxJr8nOtk-9" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/storage/Data_Box_Edge.svg;" parent="1" vertex="1">
           <mxGeometry x="260" y="253" width="111.67" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CVfzyO-HcXrzxJr8nOtk-14" value="Sigfox Partner&#xa;( REST_API )" style="text;fontSize=16;fontStyle=1;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="CVfzyO-HcXrzxJr8nOtk-14" value="Sigfox Portal" style="text;fontSize=16;fontStyle=1;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="270" y="210" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CVfzyO-HcXrzxJr8nOtk-15" value="FastAPI (PYTHON)&#xa;JSON Formatted" style="text;fontSize=16;fontStyle=1;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="600" y="210" width="150" height="30" as="geometry" />
+        <mxCell id="CVfzyO-HcXrzxJr8nOtk-15" value="FastAPI (PYTHON)&#xa;" style="text;fontSize=16;fontStyle=1;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="615" y="229" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CVfzyO-HcXrzxJr8nOtk-16" value="Dash Plotly" style="text;fontSize=16;fontStyle=1;verticalAlign=middle;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="800" y="220" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wNUg9_tzJ5TJ3EyBKktx-1" value="Geo Location&#xa;Time series " style="text;fontSize=16;fontStyle=1;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="wNUg9_tzJ5TJ3EyBKktx-1" value="Geo Location&#xa;Time series " style="text;fontSize=16;fontStyle=1;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="820" y="333" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
